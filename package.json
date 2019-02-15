@@ -1,0 +1,13 @@
+{
+  "name": "react_native_web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/miguelzurita/react_native_web.git",
+  "author": "mike <mzurita@dev.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-native-web": "^0.10.0"
+  }
+}
